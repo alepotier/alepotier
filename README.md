@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @alepotier !
+- 👋 Hi, I’m Alexandre Le Potier !
 - 👀 I’m interested in data science and web development.
 - 🌱 I’m currently learning React.
