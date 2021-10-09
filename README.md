@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alepotier !
+- 👀 I’m interested in data science and web development.
+- 🌱 I’m currently learning React.
